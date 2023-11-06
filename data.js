@@ -1,0 +1,148 @@
+ const PortfolioData=
+[
+  {
+    "riskTolerance": 0,
+    "nigerianStocks": 18,
+    "foreignStocks": 4,
+    "techStocks": 2,
+    "emergingStocks": 7,
+    "nigerianBonds": 35,
+    "foreignBonds": 15,
+    "commodities": 7,
+    "realEstate": 12,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 1,
+    "nigerianStocks": 20,
+    "foreignStocks": 5,
+    "techStocks": 3,
+    "emergingStocks": 7,
+    "nigerianBonds": 35,
+    "foreignBonds": 6,
+    "commodities": 12,
+    "realEstate": 12,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 2,
+    "nigerianStocks": 23,
+    "foreignStocks": 5,
+    "techStocks": 4,
+    "emergingStocks": 7,
+    "nigerianBonds": 35,
+    "foreignBonds": 14,
+    "commodities": 12,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 3,
+    "nigerianStocks": 26,
+    "foreignStocks": 6,
+    "techStocks": 4,
+    "emergingStocks": 7,
+    "nigerianBonds": 35,
+    "foreignBonds": 10,
+    "commodities": 12,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 4,
+    "nigerianStocks": 29,
+    "foreignStocks": 7,
+    "techStocks": 5,
+    "emergingStocks": 6,
+    "nigerianBonds": 35,
+    "foreignBonds": 6,
+    "commodities": 12,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 5,
+    "nigerianStocks": 31,
+    "foreignStocks": 8,
+    "techStocks": 6,
+    "emergingStocks": 5,
+    "nigerianBonds": 35,
+    "foreignBonds": 3,
+    "commodities": 12,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 6,
+    "nigerianStocks": 35,
+    "foreignStocks": 8,
+    "techStocks": 7,
+    "emergingStocks": 3,
+    "nigerianBonds": 35,
+    "foreignBonds": 12,
+    "commodities": 0,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 7,
+    "nigerianStocks": 45,
+    "foreignStocks": 13,
+    "techStocks": 12,
+    "emergingStocks": 7,
+    "nigerianBonds": 23,
+    "foreignBonds": 0,
+    "commodities": 0,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 8,
+    "nigerianStocks": 45,
+    "foreignStocks": 15,
+    "techStocks": 15,
+    "emergingStocks": 9,
+    "nigerianBonds": 16,
+    "foreignBonds": 0,
+    "commodities": 0,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 9,
+    "nigerianStocks": 45,
+    "foreignStocks": 18,
+    "techStocks": 17,
+    "emergingStocks": 11,
+    "nigerianBonds": 9,
+    "foreignBonds": 0,
+    "commodities": 0,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  },
+  {
+    "riskTolerance": 10,
+    "nigerianStocks": 45,
+    "foreignStocks": 20,
+    "techStocks": 19,
+    "emergingStocks": 14,
+    "nigerianBonds": 2,
+    "foreignBonds": 0,
+    "commodities": 0,
+    "realEstate": 0,
+    "tBills": 0,
+    "alternative": 0
+  }
+]
+
+module.exports = PortfolioData;
